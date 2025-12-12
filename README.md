@@ -31,7 +31,53 @@ Execute the programs and publish them.
     <area target="" alt="science" title="science" href="science center.html" coords="177,444,105" shape="circle">
     <area target="" alt="angar" title="angar" href="anna nagar.html" coords="304,721,321,777,210,805,191,739" shape="poly">
 </map>
-```
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="cyan" text="green">
+    <img src="airport.jpeg" style="max-width: 500px; width: 100%; heigth: auto;">
+    <p>Tiruchirappalli International Airport (TRZ), also known as Trichy Airport, is located approximately 5 km south of the city center of Tiruchirappalli in Tamil Nadu, India.
+        It serves as a major gateway to Central Tamil Nadu and is the second-busiest airport in the state by international passenger traffic.
+        The airport covers an area of 702 acres and features two terminals, with the integrated passenger terminal accommodating both domestic and international flights.</p>
+    
+</body>
+</html>
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="cyan" text=" blue">
+    <img src="science center.webp" style="max-width: 500px; width: 100%; heigth= auto;">
+    <p>The Anna Science Centre in Tiruchirappalli is a comprehensive educational facility that aims to educate the young generation and the general public about science and technology.
+         It is located on the National Highway 210, adjacent to the Tiruchirapalli Airport, and is easily accessible by various modes of transportation.
+          The centre is a planetarium that features a 3-D scientific movie screening on "Shark Island" and offers a visual treat to kids with its interactive exhibits and informative presentations.
+           It also includes a 3-D scientific movie screening on "Shark Island" and features 'Vigyan Prasar' and 'Try Science Around the World', an advanced system that exhibits information about the science centres from more than 50 countries.
+            The planetarium has shows in both Tamil and English, providing a diverse learning experience for visitors from all over</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="cyan" text="red">
+    <img src="anna nagar.jpg" style="max-width: 500px; width: 100%; heigth:auto;">
+    <p>Anna Nagar is a well-established locality in Tiruchirappalli,
+    Tamil Nadu, India. It is known for its peaceful environment and is fully occupied by the staffs of BHEL, OFT, HAPP, and other government officials.
+     The area is well-connected to the international airport and ELCOT IT Park, making it convenient for business and travel.
+      Anna Nagar is also near Kendriya Vidyalaya School and Bharathidasan Anna University, providing educational facilities within reach.</p>
+</body>
+</html>
 
 
 ## OUTPUT
